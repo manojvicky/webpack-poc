@@ -1,0 +1,12 @@
+{
+  "name": "webpack-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/manojvicky/webpack-poc.git",
+  "author": "manojvicky <manoj.save.earth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
